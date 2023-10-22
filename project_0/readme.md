@@ -17,6 +17,7 @@
 ### Описание проекта
 Угадать загадонное число компьютером за минимальное число попыток.
 
+:arrow_up:[к оглавлению](https://github.com/DariaSpcpu/mfti_data_science/blob/main/project_0/readme.md#Оглавление)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное количество попыток.
@@ -34,17 +35,31 @@
 - Учимся работать с IDE.
 - Учимся работать с GitHub.
 
+:arrow_up:[к оглавлению](https://github.com/DariaSpcpu/mfti_data_science/blob/main/project_0/readme.md#Оглавление)
+
+
 ### Краткая информация о данных
-...
+Первоначально берется интервал для рандомного угадывания от 1 до 101
+
+:arrow_up:[к оглавлению](https://github.com/DariaSpcpu/mfti_data_science/blob/main/project_0/readme.md#Оглавление)
+
 
 ### Этапы работы над проектом
-...
+1. Случайное угадывание
+2. Угадывание с коррекцией
+3. Случайное угадывание с коррекцией границ
+
+:arrow_up:[к оглавлению](https://github.com/DariaSpcpu/mfti_data_science/blob/main/project_0/readme.md#Оглавление)
+
 
 ### Результаты
-...
+Угадыние в среднем за 8 попыток
+
+:arrow_up:[к оглавлению](https://github.com/DariaSpcpu/mfti_data_science/blob/main/project_0/readme.md#Оглавление)
+
 
 ### Выводы
-...
+Результат достигнут
 
 
 
